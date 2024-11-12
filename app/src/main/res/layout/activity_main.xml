@@ -13,7 +13,7 @@
         android:textSize="24sp"
         android:textStyle="bold"
         android:layout_gravity="center"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="17dp"/>
 
     <EditText
         android:id="@+id/contactNameInput"
